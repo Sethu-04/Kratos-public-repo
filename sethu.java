@@ -5,3 +5,4 @@ I living with my family
 working as HR in yennes infotec 
 but right now i want to move into IT Field so i choose DevOps to learn in Staragile
 its all about me
+Already learning the DevOps classes
